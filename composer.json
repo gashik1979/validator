@@ -1,0 +1,19 @@
+{
+    "name": "gashik/validator",
+    "description": "Form Validator",
+    "type": "library",
+    "license": "BSD license",
+    "autoload": {
+        "psr-4": {
+            "Gashik\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gashik",
+            "email": "gashik1979@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
